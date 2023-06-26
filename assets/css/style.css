@@ -1,0 +1,31 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+ul {
+    font-size: 20px;
+    border: solid;
+    border-color: green;
+    background-color: blanchedalmond;
+    color: brown;
+}
+#Home {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMBVkq3a7dQDr_IebI7c91hYMbIo2O-apqjw&usqp=CAU');
+    background-repeat: ;
+    background-size:  ;
+}
+#news {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZY8RVUmR0AHqoKMwLp7IIucfnQGGmp88pDA&usqp=CAU');
+    background-repeat: ;
+    background-size:  ;
+}
+#Highlight {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytcbGmYxFiPOBtaMk6XU8iMBzRcu90EnAeA&usqp=CAU');
+    background-repeat: ;
+    background-size:  ;
+}
+#Contact {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eswWuSUmvbpUe-_hMLLUEQY5yCM4PcZpAw&usqp=CAU');
+    background-repeat: ;
+    background-size:  ;
+}
